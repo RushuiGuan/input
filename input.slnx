@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Folder/">
+    <File Path="Directory.Build.props" />
+    <File Path="icon.png" />
+    <File Path="LICENSE" />
+    <File Path=".projects" />
+  </Folder>
+  <Project Path="Albatross.Input/Albatross.Input.csproj" />
+</Solution>
