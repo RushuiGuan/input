@@ -5,5 +5,6 @@
     <File Path="LICENSE" />
     <File Path=".projects" />
   </Folder>
+  <Project Path="Albatross.Input.Test/Albatross.Input.Test.csproj" Id="b32e03d5-d9f3-4935-9ea0-bdc817cddff0" />
   <Project Path="Albatross.Input/Albatross.Input.csproj" />
 </Solution>
