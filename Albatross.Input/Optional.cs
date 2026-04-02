@@ -1,4 +1,6 @@
-﻿namespace Albatross.Input {
+﻿using System;
+
+namespace Albatross.Input {
 	/// <summary>
 	/// Represents an optionally-present reference-type value, distinguishing between a field that was
 	/// omitted from a request and one that was explicitly set to <c>null</c>.
