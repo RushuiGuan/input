@@ -21,6 +21,7 @@ open## Ignore Visual Studio temporary files, build results, and
 **/Features/*.feature.cs
 
 # Build results
+Worktrees/
 [Dd]ist
 [Dd]ebug/
 [Dd]ebugPublic/
